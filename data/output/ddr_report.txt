@@ -1,0 +1,52 @@
+
+==============================
+DETAILED DIAGNOSTIC REPORT
+==============================
+
+1. PROPERTY ISSUE SUMMARY
+Moisture and leakage issues observed in multiple areas
+
+--------------------------------
+2. AREA-WISE OBSERVATIONS
+--------------------------------
+• Exhaust not working properly
+• Mold formation near tiles
+• Paint is peeling near ceiling
+• No thermal anomalies
+• Cold spot detected under sink area
+• High temperature variation detected on north wall
+• Slight heat accumulation near exhaust
+• Minor cracks observed near window frame
+• Poor ventilation suspected
+• No moisture detected
+• Indicates water leakage
+• Visible dampness on the north wall
+• Slight discoloration on wall
+• Water leakage under sink
+• Possible moisture retention
+• Normal temperature distribution
+
+--------------------------------
+3. PROBABLE ROOT CAUSE
+--------------------------------
+Plumbing leakage, Moisture intrusion, Poor ventilation | Plumbing leakage, Poor ventilation
+
+--------------------------------
+4. SEVERITY ASSESSMENT
+--------------------------------
+Medium to High – due to moisture and leakage | Medium to High – due to moisture and leakage
+
+--------------------------------
+5. RECOMMENDED ACTIONS
+--------------------------------
+Fix plumbing leakage, Repair damp walls and repaint, Repair or replace exhaust system | Fix plumbing leakage, Repair or replace exhaust system
+
+--------------------------------
+6. ADDITIONAL NOTES
+--------------------------------
+Generated using rule-based system | Generated using rule-based system | Conflict detected
+
+--------------------------------
+7. MISSING INFORMATION
+--------------------------------
+Exact measurements not available | Exact measurements not available
