@@ -1,2 +1,33 @@
 # ddr-ai-report-generator
 AI-powered system that converts inspection and thermal reports into structured DDR with PDF export and image extraction.
+# 🏗️ DDR AI Report Generator
+
+An AI-powered system that converts raw inspection and thermal reports into a structured **Detailed Diagnostic Report (DDR)**.
+
+---
+
+## 🚀 Overview
+
+This project processes unstructured inspection and thermal reports and generates a clean, client-ready diagnostic report.
+
+It focuses on:
+- Extracting key observations
+- Merging multiple data sources
+- Handling missing or conflicting information
+- Producing a structured and readable output
+
+---
+
+## ✨ Features
+
+- 📄 Extracts text and images from PDF reports  
+- 🔄 Combines inspection and thermal data logically  
+- ⚠️ Handles missing data using "Not Available"  
+- 🧠 Detects and highlights conflicts  
+- 🧾 Generates structured DDR output  
+- 📥 Exports a professional PDF report  
+- 🌐 Simple Streamlit UI for easy interaction  
+
+---
+
+## 🧠 System Workflow
