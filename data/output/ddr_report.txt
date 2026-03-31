@@ -9,22 +9,22 @@ Moisture and leakage issues observed in multiple areas
 --------------------------------
 2. AREA-WISE OBSERVATIONS
 --------------------------------
-• Exhaust not working properly
-• Mold formation near tiles
-• Paint is peeling near ceiling
-• No thermal anomalies
-• Cold spot detected under sink area
-• High temperature variation detected on north wall
-• Slight heat accumulation near exhaust
-• Minor cracks observed near window frame
-• Poor ventilation suspected
-• No moisture detected
-• Indicates water leakage
-• Visible dampness on the north wall
-• Slight discoloration on wall
-• Water leakage under sink
 • Possible moisture retention
+• Cold spot detected under sink area
+• Slight heat accumulation near exhaust
 • Normal temperature distribution
+• Visible dampness on the north wall
+• Exhaust not working properly
+• Water leakage under sink
+• No moisture detected
+• High temperature variation detected on north wall
+• Poor ventilation suspected
+• Mold formation near tiles
+• Slight discoloration on wall
+• Paint is peeling near ceiling
+• Minor cracks observed near window frame
+• Indicates water leakage
+• No thermal anomalies
 
 --------------------------------
 3. PROBABLE ROOT CAUSE
